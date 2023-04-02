@@ -1,6 +1,6 @@
 # Dai Akita (秋田 大)
 
-- Research Associate (助教) of [Takahashi Lab.](http://www.ne.t.u-tokyo.ac.jp/index.html), Graduate School of Information Science and Technology, The University of Tokyo
+- Assistant Professor (助教) of [Takahashi Lab.](http://www.ne.t.u-tokyo.ac.jp/index.html), Graduate School of Information Science and Technology, The University of Tokyo
 - d.akita /at/ ne.t.u-tokyo.ac.jp
 - Interested in information processing in organism, biocomputing, organoid intelligence, and so on.
 
@@ -14,7 +14,7 @@
 | 2017/3           | Doctor of Life Science (Graduate School of Life Science, Hokkaido University)<br>[Doctoral thesis: _Study on biological transport network utilizing plasmodium of Physarum polycephalum_](https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/65418)                                                       | 
 | 2017/4 ~ 2022/9  | Mizuho-DL Financial Technology Co., LTD<br>(mainly engaged in consulting services for pension funds as a senior financial engineer) | 
 | 2022/10 ~ 2023/3 | Project Researcher (特任研究員), Graduate School of Information Science and Technology, The University of Tokyo                                  | 
-| 2023/4 ~         | Research Associate (助教), Graduate School of Information Science and Technology, The University of Tokyo                                  | 
+| 2023/4 ~         | Assistant Professor (助教), Graduate School of Information Science and Technology, The University of Tokyo                                  | 
 
 
 # Publication
