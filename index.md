@@ -19,7 +19,8 @@
 
 # Publication
 
-1. N. Ishida, T. I. Shiramatsu, T. Kubota, D. Akita, and H. Takahashi, _Quantification of information processing capacity in living brain as physical reservoir_, Applied Physics Letters, **2023**, Vol. 122(23), pp. 233702
+1. N. Ikeda, D. Akita, and H. Takahashi, _Noise and spike-time-dependent plasticity drive self-organized criticality in spiking neural network: Toward neuromorphic computing_, Applied Physics Letters, **2023**, Vol. 123(2), p. 23701
+1. N. Ishida, T. I. Shiramatsu, T. Kubota, D. Akita, and H. Takahashi, _Quantification of information processing capacity in living brain as physical reservoir_, Applied Physics Letters, **2023**, Vol. 122(23), p. 233702
 1. Akita, D., Schenz, D., Kuroda, S., Sato, K., Ueda, K.-i. and Nakagaki, T., _Current reinforcement model reproduces center-in-center vein trajectory of Physarum polycephalum_, Development, Growth & Differentiation, Wiley Online Library, **2017**, Vol. 59(5), pp. 465-470
 1. Fricker, M. D., Akita, D., Heaton, L. L., Jones, N., Obara, B. and Nakagaki, T.,  _Automated analysis of Physarum network structure and dynamics_, Journal of Physics D: Applied Physics, IOP Publishing, **2017**, Vol. 50(25), pp. 254005
 1. Kunita, I., Ueda, K.-I., Akita, D., Kuroda, S. and Nakagaki, T.,  _Behavioural differentiation induced by environmental variation when crossing a toxic zone in an amoeba_, Journal of Physics D: Applied Physics, IOP Publishing, **2017**, Vol. 50(35), pp. 354002
