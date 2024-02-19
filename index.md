@@ -32,7 +32,7 @@
 
 # Preprint
 
-1. D. Akita and D. T. Schenz, _A branch connection rule of one-way rail network_, [arXiv:2308.10044](https://arxiv.org/abs/2308.10044), **2023**
+1. D. Akita and D. T. Schenz, _A simple counting rule to evaluate directionality of arbitrary rail networks_, [arXiv:2308.10044](https://arxiv.org/abs/2308.10044), **2024**
 
 # etc.
 
