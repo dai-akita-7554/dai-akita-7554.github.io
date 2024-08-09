@@ -32,3 +32,4 @@
 
 - Chartered Member of The Securities Analysts Association of Japan
 - Movie of plasmodium of _Physarum polycephalum_ covering 3D printed object<br>[![pika_thumbnail](pika_thumbnail.png)](pikam.mp4)
+- [clock](clock.html)
