@@ -1,6 +1,6 @@
 # Dai Akita (秋田 大)
 
-- Assistant Professor (助教) of [Takahashi Lab.](http://www.ne.t.u-tokyo.ac.jp/index.html), Graduate School of Information Science and Technology, The University of Tokyo
+- Assistant Professor (助教) of [Takahashi-Shiramatsu Lab.](http://www.ne.t.u-tokyo.ac.jp/index.html), Graduate School of Information Science and Technology, The University of Tokyo
 - d.akita /at/ ne.t.u-tokyo.ac.jp
 - Interested in information processing in organism, biocomputing, organoid intelligence, and so on.
 
@@ -35,7 +35,7 @@
 1. D. Akita and D. T. Schenz, _A simple counting rule to evaluate directionality of arbitrary rail networks_, [arXiv:2308.10044](https://arxiv.org/abs/2308.10044), **2024**
 
 # etc.
-
+- [_Online Chat with Living Neuronal Cultures_, SIGGRAPH Asia 2024 Tokyo (Real-Time Live!), 2024/12/6](https://asia.siggraph.org/2024/ja/presentation/?id=real_128&sess=sess208)<br>[![image](https://github.com/user-attachments/assets/a15d7190-2302-4a1b-b813-c069fa1bd25a)](https://asia.siggraph.org/2024/ja/presentation/?id=real_128&sess=sess208)
 - Chartered Member of The Securities Analysts Association of Japan
 - Movie of plasmodium of _Physarum polycephalum_ covering 3D printed object<br>[![pika_thumbnail](pika_thumbnail.png)](pikam.mp4)
 - [clock](clock.html)
