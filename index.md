@@ -19,20 +19,25 @@
 
 # Publication
 
-1. D. Akita, E. Suwa, N. Ikeda, and H. Takahashi, _Neural Activity and Information Processing Capacity of Neuronal Culture_, the 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), **2023**, T6-O1.Th_1330 654, Sydney, Australia.
-1. N. Ikeda, D. Akita, and H. Takahashi, _Noise and spike-time-dependent plasticity drive self-organized criticality in spiking neural network: Toward neuromorphic computing_, Applied Physics Letters, **2023**, Vol. 123(2), p. 23701
-1. N. Ishida, T. I. Shiramatsu, T. Kubota, D. Akita, and H. Takahashi, _Quantification of information processing capacity in living brain as physical reservoir_, Applied Physics Letters, **2023**, Vol. 122(23), p. 233702
-1. D. Akita, D. Schenz, S. Kuroda, K. Sato, K.-i. Ueda, and T. Nakagaki, _Current reinforcement model reproduces center-in-center vein trajectory of Physarum polycephalum_, Development, Growth & Differentiation, Wiley Online Library, **2017**, Vol. 59(5), pp. 465-470
-1. M. D. Fricker, D. Akita, L. L. Heaton, N. Jones, B. Obara, and T. Nakagaki,  _Automated analysis of Physarum network structure and dynamics_, Journal of Physics D: Applied Physics, IOP Publishing, **2017**, Vol. 50(25), pp. 254005
-1. I. Kunita, K.-i. Ueda, D. Akita, S. Kuroda, and T. Nakagaki,  _Behavioural differentiation induced by environmental variation when crossing a toxic zone in an amoeba_, Journal of Physics D: Applied Physics, IOP Publishing, **2017**, Vol. 50(35), pp. 354002
-1. D. Akita,  _Multiplication and convolution of distributions for signal processing theory_, Digital signal processing, Elsevier, **2016**, Vol. 56, pp. 1-14
-1. D. Akita, I. Kunita, M. D. Fricker, S. Kuroda, K. Sato, and T. Nakagaki,  _Experimental models for Murray's law_, Journal of Physics D: Applied Physics, IOP Publishing, **2016**, Vol. 50(2), pp. 024001
-1. S. Kameda, Y. Hayashida, H. Tanaka, D. Akita, A. Iwata, and T. Yagi,  _A Multi-Channel Current Stimulator Chip Intended for a Visual Cortical Implant_, Transactions of Japanese Society for Medical and Biological Engineering, Japanese Society for Medical and Biological Engineering, **2013**, Vol. 51(Supplement), pp. R-140
-1. S. Kameda, Y. Hayashida, Y. Tanaka, D. Akita, and T. Yagi,  _A multichannel current stimulator chip for spatiotemporal pattern stimulation of neural tissues_, 2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, **2014**, pp. 5011-5015
+1. N. Ikeda, D. Akita, and H. Takahashi, _Emergent functions of noise-driven spontaneous activity: homeostatic maintenance of criticality and memory consolidation_, Frontiers in Neural Circuits, vol. 19, **2025**. https://doi.org/10.3389/fncir.2025.1585087
+1. Z. Zhang, A. Yaron, D. Akita, T. I. Shiramatsu, Z. C. Chao, and H. Takahashi, _Deviance detection and regularity sensitivity in dissociated neuronal cultures_, Frontiers in Neural Circuits, vol. 19, **2025**. https://doi.org/10.3389/fncir.2025.1584322
+1. A. Yaron, Z. Zhang, D. Akita, T. I. Shiramatsu, Z. C. Chao, and H. Takahashi, “Dissociated neuronal cultures as model systems for self-organized prediction,” Frontiers in Neural Circuits, vol. 19. **2025**. https://doi.org/10.3389/fncir.2025.1568652
+1. T. Mayama, D. Akita, W. Kawakami, and H. Takahashi, _Online Chat with Living Neuronal Cultures_, SIGGRAPH Asia 2024 Real-Time Live!, **2024**, Tokyo, Japan. https://doi.org/10.1145/3681757.3697053
+1. D. Akita, E. Suwa, N. Ikeda, and H. Takahashi, _Neural Activity and Information Processing Capacity of Neuronal Culture_, the 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), **2023**, T6-O1.Th_1330 654, Sydney, Australia. https://doi.org/10.1109/EMBC40787.2023.10340168
+1. N. Ikeda, D. Akita, and H. Takahashi, _Noise and spike-time-dependent plasticity drive self-organized criticality in spiking neural network: Toward neuromorphic computing_, Applied Physics Letters, **2023**, Vol. 123(2), p. 23701. https://doi.org/10.1063/5.0152633
+1. N. Ishida, T. I. Shiramatsu, T. Kubota, D. Akita, and H. Takahashi, _Quantification of information processing capacity in living brain as physical reservoir_, Applied Physics Letters, **2023**, Vol. 122(23), p. 233702. https://doi.org/10.1063/5.0152585
+1. D. Akita, D. Schenz, S. Kuroda, K. Sato, K.-i. Ueda, and T. Nakagaki, _Current reinforcement model reproduces center-in-center vein trajectory of Physarum polycephalum_, Development, Growth & Differentiation, Wiley Online Library, **2017**, Vol. 59(5), pp. 465-470. https://doi.org/10.1111/dgd.12384
+1. M. D. Fricker, D. Akita, L. L. Heaton, N. Jones, B. Obara, and T. Nakagaki, _Automated analysis of Physarum network structure and dynamics_, Journal of Physics D: Applied Physics, IOP Publishing, **2017**, Vol. 50(25), pp. 254005. https://doi.org/10.1088/1361-6463/aa72b9
+1. I. Kunita, K.-i. Ueda, D. Akita, S. Kuroda, and T. Nakagaki, _Behavioural differentiation induced by environmental variation when crossing a toxic zone in an amoeba_, Journal of Physics D: Applied Physics, IOP Publishing, **2017**, Vol. 50(35), pp. 354002. https://doi.org/10.1088/1361-6463/aa7a8e
+1. D. Akita, _Multiplication and convolution of distributions for signal processing theory_, Digital signal processing, Elsevier, **2016**, Vol. 56, pp. 1-14. https://doi.org/10.1016/j.dsp.2016.05.008
+1. D. Akita, I. Kunita, M. D. Fricker, S. Kuroda, K. Sato, and T. Nakagaki, _Experimental models for Murray's law_, Journal of Physics D: Applied Physics, IOP Publishing, **2016**, Vol. 50(2), pp. 024001. https://doi.org/10.1088/1361-6463/50/2/024001
+1. S. Kameda, Y. Hayashida, H. Tanaka, D. Akita, A. Iwata, and T. Yagi, _A Multi-Channel Current Stimulator Chip Intended for a Visual Cortical Implant_, Transactions of Japanese Society for Medical and Biological Engineering, Japanese Society for Medical and Biological Engineering, **2013**, Vol. 51(Supplement), pp. R-140. https://doi.org/10.11239/jsmbe.51.R-140
+1. S. Kameda, Y. Hayashida, Y. Tanaka, D. Akita, and T. Yagi, _A multichannel current stimulator chip for spatiotemporal pattern stimulation of neural tissues_, 2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, **2014**, pp. 5011-5015. https://doi.org/10.1109/EMBC.2014.6944750
+
 
 # Preprint
 
-1. D. Akita and D. T. Schenz, _A simple counting rule to evaluate directionality of arbitrary rail networks_, [arXiv:2308.10044](https://arxiv.org/abs/2308.10044), **2024**
+1. D. Akita and D. T. Schenz, _Parity conditions for one-way rail networks_, [arXiv:2308.10044](https://arxiv.org/abs/2308.10044), **2024**
 
 # etc.
 
