@@ -19,12 +19,13 @@
 
 # Publication
 
+1. D. Akita and D. Schenz, _Parity conditions for one-way rail networks_, Discussiones Mathematicae Graph Theory, **2026**, Vol. 46(3), p. 867. https://doi.org/10.7151/dmgt.2632
 1. N. Ikeda, D. Akita, and H. Takahashi, _Emergent functions of noise-driven spontaneous activity: homeostatic maintenance of criticality and memory consolidation_, Frontiers in Neural Circuits, vol. 19, **2025**. https://doi.org/10.3389/fncir.2025.1585087
 1. Z. Zhang, A. Yaron, D. Akita, T. I. Shiramatsu, Z. C. Chao, and H. Takahashi, _Deviance detection and regularity sensitivity in dissociated neuronal cultures_, Frontiers in Neural Circuits, vol. 19, **2025**. https://doi.org/10.3389/fncir.2025.1584322
 1. A. Yaron, Z. Zhang, D. Akita, T. I. Shiramatsu, Z. C. Chao, and H. Takahashi, “Dissociated neuronal cultures as model systems for self-organized prediction,” Frontiers in Neural Circuits, vol. 19. **2025**. https://doi.org/10.3389/fncir.2025.1568652
 1. T. Mayama, D. Akita, W. Kawakami, and H. Takahashi, _Online Chat with Living Neuronal Cultures_, SIGGRAPH Asia 2024 Real-Time Live!, **2024**, Tokyo, Japan. https://doi.org/10.1145/3681757.3697053
 1. D. Akita, E. Suwa, N. Ikeda, and H. Takahashi, _Neural Activity and Information Processing Capacity of Neuronal Culture_, the 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), **2023**, T6-O1.Th_1330 654, Sydney, Australia. https://doi.org/10.1109/EMBC40787.2023.10340168
-1. N. Ikeda, D. Akita, and H. Takahashi, _Noise and spike-time-dependent plasticity drive self-organized criticality in spiking neural network: Toward neuromorphic computing_, Applied Physics Letters, **2023**, Vol. 123(2), p. 23701. https://doi.org/10.1063/5.0152633
+1. N. Ikeda, D. Akita, and H. Takahashi, _Noise and spike-time-dependent plasticity drive self-organized criticality in spiking neural network: Toward neuromorphic computing_, Applied Physics Letters, **2023**, Vol. 123(2), p. 023701. https://doi.org/10.1063/5.0152633
 1. N. Ishida, T. I. Shiramatsu, T. Kubota, D. Akita, and H. Takahashi, _Quantification of information processing capacity in living brain as physical reservoir_, Applied Physics Letters, **2023**, Vol. 122(23), p. 233702. https://doi.org/10.1063/5.0152585
 1. D. Akita, D. Schenz, S. Kuroda, K. Sato, K.-i. Ueda, and T. Nakagaki, _Current reinforcement model reproduces center-in-center vein trajectory of Physarum polycephalum_, Development, Growth & Differentiation, Wiley Online Library, **2017**, Vol. 59(5), pp. 465-470. https://doi.org/10.1111/dgd.12384
 1. M. D. Fricker, D. Akita, L. L. Heaton, N. Jones, B. Obara, and T. Nakagaki, _Automated analysis of Physarum network structure and dynamics_, Journal of Physics D: Applied Physics, IOP Publishing, **2017**, Vol. 50(25), pp. 254005. https://doi.org/10.1088/1361-6463/aa72b9
@@ -37,7 +38,12 @@
 
 # Preprint
 
-1. D. Akita and D. T. Schenz, _Parity conditions for one-way rail networks_, [arXiv:2308.10044](https://arxiv.org/abs/2308.10044), **2024**
+1. K. Takehana, D. Akita, and H. Takahashi, _Dynamic sampling of non-stationary spontaneous activity in dissociated neuronal networks_, [arXiv:2607.24269](https://arxiv.org/abs/2607.24269), **2026**.
+1. T. Mayama and D. Akita, _Finite-state enumeration of adjacency-constrained 132-avoiding permutations_, [arXiv:2605.23519](https://arxiv.org/abs/2605.23519), **2026**.
+1. T. Mayama, S. Shimizu, Y. Takano, D. Akita, and H. Takahashi, _Bridging integrated information theory and the free-energy principle in living neuronal networks_, [arXiv:2510.04084](https://arxiv.org/abs/2510.04084), **2025**.
+1. Z. Zhang, A. Yaron, D. Akita, T. I. Shiramatsu, Z. C. Chao, and H. Takahashi, _Emergence of deviance detection in cortical cultures through maturation, criticality, and early experience_, [arXiv:2510.00764](https://arxiv.org/abs/2510.00764), **2025**.
+1. D. Akita, _An unbiased variance estimator with denominator N_, [arXiv:2504.06569](https://arxiv.org/abs/2504.06569), **2025**.
+1. A. Nakamuta, D. Akita, H. Zhang, Y. Kawahara, H. Takahashi, and J. Teramae, _Self-organization of high-dimensional geometry of neural activity in culture_, bioRxiv, **2025**. https://doi.org/10.1101/2025.01.14.630383
 
 # etc.
 - [_Online Chat with Living Neuronal Cultures_, SIGGRAPH Asia 2024 Tokyo (Real-Time Live!), 2024/12/6](https://asia.siggraph.org/2024/ja/presentation/?id=real_128&sess=sess208)<br>[![image](https://github.com/user-attachments/assets/a15d7190-2302-4a1b-b813-c069fa1bd25a)](https://asia.siggraph.org/2024/ja/presentation/?id=real_128&sess=sess208)
