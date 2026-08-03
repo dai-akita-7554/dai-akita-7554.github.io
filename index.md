@@ -46,6 +46,15 @@
 1. A. Nakamuta, D. Akita, H. Zhang, Y. Kawahara, H. Takahashi, and J. Teramae, _Self-organization of high-dimensional geometry of neural activity in culture_, bioRxiv, **2025**. https://doi.org/10.1101/2025.01.14.630383
 
 # etc.
+- Can the toy train turn around? Count the angles!<br>
+  <iframe
+    style="width: 100%; max-width: 560px; aspect-ratio: 16 / 9;"
+    src="https://www.youtube-nocookie.com/embed/7PHZ4Swf9j8"
+    title="Can the toy train turn around? Count the angles!"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
 - [_Online Chat with Living Neuronal Cultures_, SIGGRAPH Asia 2024 Tokyo (Real-Time Live!), 2024/12/6](https://asia.siggraph.org/2024/ja/presentation/?id=real_128&sess=sess208)<br>[![image](https://github.com/user-attachments/assets/a15d7190-2302-4a1b-b813-c069fa1bd25a)](https://asia.siggraph.org/2024/ja/presentation/?id=real_128&sess=sess208)
 - Chartered Member of The Securities Analysts Association of Japan
 - Movie of plasmodium of _Physarum polycephalum_ covering 3D printed object<br>[![pika_thumbnail](pika_thumbnail.png)](pikam.mp4)
